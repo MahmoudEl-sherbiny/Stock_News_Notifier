@@ -14,3 +14,9 @@ A Python script that monitors Tesla (TSLA) stock prices using the Alpha Vantage 
    ```bash
    git clone https://github.com/yourusername/stock-price-alert.git
    cd stock-price-alert
+
+## ➡️Output
+```Message
+  TSLA: 🔝5% 
+  Headline: Why Tesla Inc (TSLA) is Plunging in 2025?. 
+  Brief: We recently published a list of Why These 15 Electric Vehicle Stocks Are Plunging in 2025. In this article, we are going to take a look at where Tesla Inc...
