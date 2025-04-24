@@ -61,7 +61,7 @@ percentage = abs(round((difference / yesterday_closing_price) * 100))
 # print(percentage)
 
 
-if percentage >= 1:
+if percentage >= 1: # you can change the precentage as you like
     response = requests.get(NEWS_ENDPOINT, params=news_parameters)
     articles = response.json()["articles"]
     # print(articles)
